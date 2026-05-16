@@ -1,4 +1,4 @@
-# 
+# YNAB for PC | YNAB for Windows smart Addon: payment-processing & accounting offers the most advanced YNAB for PC | YNAB for Windows addon, with payment-processing and accounting.
 
 
 
